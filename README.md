@@ -5,6 +5,7 @@
 This project demonstrates how to clean, analyze, and visualize an Excel dataset by embedding SQL queries into a Python environment. Using Streamlit and DuckDB, the project builds an interactive dashboard with Plotly for data visualization, providing a seamless, user-friendly interface for data insights.
 
 Project is live on [here](https://finacial-dashboard.streamlit.app/)
+
 First download the dataset from the repo and then upload on the site.
 
 ## Table of Contents

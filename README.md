@@ -23,6 +23,23 @@ The main goal of this project is to clean and visualize data from an Excel sheet
 2. **Data Formatting with SQL**: Using DuckDB, the data in the DataFrame is formatted and analyzed through SQL commands.
 3. **Interactive Visualization**: The cleaned and analyzed data is visualized with Plotly, and the Streamlit app is built with a sidebar, horizontal layout, and expanders for easy navigation and exploration.
 
+
+
+![Screenshot 2024-10-26 100248](https://github.com/user-attachments/assets/7ac2cb60-ec6f-4f93-b1d3-a7927030cfd2)
+
+![Screenshot 2024-10-26 100302](https://github.com/user-attachments/assets/f07bf04e-a051-4aed-bef5-221acc6a4fa1)
+
+![Screenshot 2024-10-26 100318](https://github.com/user-attachments/assets/1593a4dd-b5c4-4d18-8a90-fcc86659dfd5)
+
+
+![Screenshot 2024-10-26 100341](https://github.com/user-attachments/assets/31dc4fa7-0691-489a-82e5-da12f8c7abb0)
+
+
+![Screenshot 2024-10-26 100330](https://github.com/user-attachments/assets/b763970d-20bf-48ee-8f37-b203fd2799cc)
+
+
+
+
 ## Project
 
 A dashboard using streamlit and cleaning and making chat and visuals from it.

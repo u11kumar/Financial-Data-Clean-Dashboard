@@ -1,5 +1,9 @@
 # Financial-Data-Clean-Dashboard
 
+![Grey Textured Background Keep Moving Forward Motivational Quote Desktop Wallpaper](https://github.com/user-attachments/assets/6d3cd100-2df0-46d6-b608-dab50ec311c3)
+
+
+
 # Excel Data Cleaning and Visualization with SQL, Streamlit, and Plotly
 
 This project demonstrates how to clean, analyze, and visualize an Excel dataset by embedding SQL queries into a Python environment. Using Streamlit and DuckDB, the project builds an interactive dashboard with Plotly for data visualization, providing a seamless, user-friendly interface for data insights.
